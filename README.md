@@ -59,4 +59,34 @@ ecommerce-backend/
 
 ### Screenshots
 
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/2408bd22-a009-404e-bcd6-972d4ffb9b7a" />
+
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/3031b3f9-5073-4536-a1d9-deff8e13db30" />
+
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/0a750025-eb54-4e44-9a1c-0a37ccffaeef" />
+
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/7569b636-a365-46eb-a3c0-55ae98215532" />
+
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/d7cc215c-cef4-415b-93bf-d6a71f4aea58" />
+
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/a3295436-4c71-4fb9-9dce-7552bdc4a182" />
+
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/c11580bb-787c-478e-be65-772ba46e048f" />
+
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/27497ce0-7a51-4f78-bf2e-62964166d9a9" />
+
+<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/3b54b0fb-2eb8-4573-b2d2-2d2a90f924c2" />
+
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/5e13c8a6-f793-41ce-98db-cf00508f1136" />
+
+<img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/e0b13e01-3343-473f-84b5-089f117d5d70" />
+
+
+
+
+
+
+
+
+
 
